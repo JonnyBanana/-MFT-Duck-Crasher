@@ -63,6 +63,8 @@ ENTER
 <br/>
 DELAY 500
 <br/>
+REM and now Repeat the operation, just to be sure
+<br/>
 CONTROL ESCAPE
 <br/>
 DELAY 500
