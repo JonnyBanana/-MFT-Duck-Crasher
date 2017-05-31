@@ -93,4 +93,8 @@ DELAY 700
 <br/>
 ENTER
 <br/>
+
+
+You can also find the following payload in the official Duck Toolkit page in the "UserScripts" section at this address
+https://ducktoolkit.com/viewscript/592e3784ac04af22f889b7e4/
                                                             
