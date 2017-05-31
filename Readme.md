@@ -88,6 +88,9 @@ STRING C:\$MFT\123
 DELAY 500
 <br/>
 ENTER
+<br/>
 DELAY 700
+<br/>
 ENTER
+<br/>
                                                             
