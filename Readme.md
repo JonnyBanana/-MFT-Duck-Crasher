@@ -1,5 +1,5 @@
 # -$MFT-Duck-Crasher
-A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability
+A Simple Script for Rubber Ducky which Exploits Windows $MFT Vulnerability. <br>
 $MFT is used by NTFS systems to manage some metadata.
  This fallace has recently been discovered, which has not yet been closed. Works on windows 7, 8 and vista, dont work on windows 10. I think work on Xp and earlier.
 This Script dont require any special firmware on the Rubber Ducky (TwinDuck Firmare etc.).
