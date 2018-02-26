@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=vYL9UQRwUZc&t=6s
 
  <br/> 
 
-
+((or by clicking on the image below))
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=vYL9UQRwUZc
 " target="_blank"><img src="http://img.youtube.com/vi/vYL9UQRwUZc/0.jpg" 
