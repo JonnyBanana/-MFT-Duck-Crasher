@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=vYL9UQRwUZc&t=6s
 
 
 
-<a href="https://codepen.io/JonnyBanana/pen/paQyKo
+<a href="https://www.youtube.com/watch?v=vYL9UQRwUZc&t=6s
 " target="_blank"><img src="http://img.youtube.com/vi/vYL9UQRwUZc/0.jpg" 
 alt="$MFT" width="600" height="450" border="100" /></a> 
 
