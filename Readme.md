@@ -97,4 +97,14 @@ ENTER
 
 You can also find the following payload in the official Duck Toolkit page in the "UserScripts" section at this address
 https://ducktoolkit.com/viewscript/592e3784ac04af22f889b7e4/
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
+
                                                             
