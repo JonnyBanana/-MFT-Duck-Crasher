@@ -95,7 +95,7 @@ ENTER
 <br/>
 
 
-You can also find the following payload in the Hak5 Website at this address:
+You can also find the following payload in the Hak5 Website at this address:</BR>
 https://hak5.org/blogs/payloads/mft-duck-crasher
 
 
